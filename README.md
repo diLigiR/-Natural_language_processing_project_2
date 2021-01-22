@@ -1,4 +1,4 @@
-# -Natural_language_processing_project_2
+# Natural_language_processing_project_2
 Problem Description:
 Generate Word Embedding and retrieve outputs of each layer with Keras based on the Classification task.
 Word embedding are a type of word representation that allows words with similar meaning to have a similar representation.
